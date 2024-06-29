@@ -7,7 +7,7 @@ Adds entries, indexing them by incrementing the value of the previous one. New e
 ![](https://i.imgur.com/sgFxYf4.png)
 
 ## Log calculating the difference
-Adds records, indexed by the difference between the progressbar value and the last value when the last record was added.
+Adds entries, indexed by the difference between the progressbar value and the last value when the last entry was added.
 
 ![](https://i.imgur.com/KMFLUcF.png)
 
